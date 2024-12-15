@@ -1,9 +1,9 @@
 //********************************************************
 // continuity.c
 // Author: Lorenzo Wyman
-// UCFID: 5464079
+// 
 // Date: 9/19/24
-// Class: COP 3223, Professor Parra
+// 
 // Purpose: This program prints a specific message to the
 // command line. The main purpose of this assignment is to
 // ask users for input and determine the amount of items they can afford,
